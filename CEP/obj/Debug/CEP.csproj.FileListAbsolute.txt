@@ -1,0 +1,10 @@
+C:\Users\carina\Desktop\CEP\CEP\bin\Debug\CEP.exe.config
+C:\Users\carina\Desktop\CEP\CEP\bin\Debug\CEP.exe
+C:\Users\carina\Desktop\CEP\CEP\bin\Debug\CEP.pdb
+C:\Users\carina\Desktop\CEP\CEP\obj\Debug\CEP.csprojAssemblyReference.cache
+C:\Users\carina\Desktop\CEP\CEP\obj\Debug\CEP.Form1.resources
+C:\Users\carina\Desktop\CEP\CEP\obj\Debug\CEP.Properties.Resources.resources
+C:\Users\carina\Desktop\CEP\CEP\obj\Debug\CEP.csproj.GenerateResource.cache
+C:\Users\carina\Desktop\CEP\CEP\obj\Debug\CEP.csproj.CoreCompileInputs.cache
+C:\Users\carina\Desktop\CEP\CEP\obj\Debug\CEP.exe
+C:\Users\carina\Desktop\CEP\CEP\obj\Debug\CEP.pdb
